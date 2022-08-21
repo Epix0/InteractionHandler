@@ -1,4 +1,4 @@
-return (function(player)
+return (function(player, script)
 	local Interaction = {}
 
 	local ContextAction = game:GetService("ContextActionService")
