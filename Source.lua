@@ -1,5 +1,5 @@
 local tab = {}
 
-tabe.X = 1
+tabe.Y = 1
 
 return tab
